@@ -44,5 +44,4 @@ docker run -p 5000:5000 predict-insurance-bill
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
 
